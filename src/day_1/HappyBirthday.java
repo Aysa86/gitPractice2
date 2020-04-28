@@ -6,7 +6,7 @@ public class HappyBirthday {
         
         
         
-       System.out.println("My best wishes!!!")// this line was added from GitHub 
+       System.out.println("My best wishes!!!")// this line was added from GitHub
         
         
     }
